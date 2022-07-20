@@ -1,0 +1,18 @@
+.pinks {
+  background-color: lightpink;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blue {
+  color: blue;
+  font-size: 36px;
+}
+
+.size {
+  font-size: 24px;
+}
+
+#bold-green {
+  background-color: lightgreen;
+  font-weight: bold;
+}
